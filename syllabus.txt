@@ -1,0 +1,79 @@
+> Introduction
+> Comment
+> variable
+> datatype
+    > integer --> int()
+    > float ---> float()
+    > string --> str()
+    > list---> list()
+    > tuple ---> tuple()
+    > set ---> set()
+    > frozenset---> frozenset()
+    > dictionary ---> dict()
+    > complex ---> complex()
+    > boolean---> bool()
+> casting
+> operators
+> input()
+> conditional programming:
+    > if else
+    > nested if else
+    > if elif else
+    > nested if elif else
+    > ternary operator 
+> Loop
+    > for loop 
+        > range()
+        > iterable
+        > single for loop
+        > nested for loop 
+        > pattern using single for loop 
+        > pattern using nested for loop
+        > list comprehension 
+        > set comprehension 
+        > dictionary comprehension 
+        > tuple comprehension (gernerator object)
+    > while loop
+        > single while loop 
+        > nested while loop
+        > pattern using single while loop
+        > pattern using nested while loop 
+
+> functions
+    > lambda function(annonymous function)   
+    > def function 
+    > nested function 
+    > decorator
+    > generator 
+
+> Package and Module
+> Multitasking
+> garbage collector (gc module)
+> OOP:
+    > class(blueprint)
+    > object
+    > instance variable
+    > class variable 
+    > Inheritance 
+    > polymorphism
+    > encapsulation
+    > Abstraction
+
+Database:
+
+SQL:
+    Mysql(CRUD)
+
+NoSQL:
+    Mongodb(CRUD)
+
+
+
+
+
+
+
+
+
+
+
